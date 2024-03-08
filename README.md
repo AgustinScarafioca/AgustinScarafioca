@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AgustinScarafioca
-- 👀 I’m interested in coding and learning.
-- 🌱 I’m currently learning full stack development, currently learning reactJs.
-- 💞️ I’m looking to collaborate on any good proyect and learn a lot.
+- 👀 I’m interested in coding and learning. Specially backend projects. Front-end bores me.
+- 🌱 I used to study History but now I'm starting the Computer Science degree at Universidad de Buenos Aires
 - 📫 You can reach me in my Linkedin, https://www.linkedin.com/in/agustin-scarafioca-giesberg-44b678220/
 
